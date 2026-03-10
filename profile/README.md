@@ -1,4 +1,8 @@
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../images/Text/SimplexLab_Color_White.png">
+  <source media="(prefers-color-scheme: light)" srcset="../images/Text/SimplexLab_Color_Black.png">
+  <img alt="Fallback image description" src="../images/Text/SimplexLab_Color_Black.png">
+</picture>
 
 SimplexLab is an open-source community whose mission is to develop humanity’s collective intelligence.
 
